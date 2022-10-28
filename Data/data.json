@@ -1,0 +1,51 @@
+[
+  {
+    "id": "635972a4992e377f17299c92",
+    "picture": "https://miro.medium.com/max/1040/1*0lgunvVYa8gZ_sfMHflyvw.jpeg",
+    "price": 199,
+    "description": "MongoDB is a non-relational document database that provides support for JSON-like storage. The MongoDB database has a flexible data model that enables you to store unstructured data, and it provides full indexing support, and replication with rich and intuitive APIs",
+    "name": "MongoDB"
+  },
+  {
+    "id": "635972a4533496b810a2ce82",
+    "picture": "https://miro.medium.com/max/800/1*9AbbVli10NreTXCpiVYEOQ.png",
+    "price": 166,
+    "description": "Express.js, or simply Express, is a back end web application framework for building RESTful APIs with Node.js, released as free and open-source software under the MIT License. It is designed for building web applications and APIs. It has been called the de facto standard server framework for Node.js",
+    "name": "Express.js"
+  },
+  {
+    "id": "635972a47a63f79f6fa80d93",
+    "picture": "https://miro.medium.com/max/720/1*aBQrwweY6-qFVWeizUrTnQ.png",
+    "price": 299,
+    "description": "React (also known as React. js or ReactJS) is a free and open-source front-end JavaScript library for building user interfaces based on UI components. It is maintained by Meta (formerly Facebook) and a community of individual developers and companies.",
+    "name": "React.js"
+  },
+  {
+    "id": "635972a4588df604aa3cf172",
+    "picture": "https://miro.medium.com/max/900/1*QKZ7wRxRQWOC8-oo7N9zQw.png",
+    "price": 155,
+    "description": "Node.js is an open-source, cross-platform, back-end JavaScript runtime environment that runs on a JavaScript Engine and executes JavaScript code outside a web browser, which was designed to build scalable network applications",
+    "name": "Node.js"
+  },
+  {
+    "id": "635972a474907493792a9487",
+    "picture": "https://i.pinimg.com/564x/ca/3d/fa/ca3dfa303f21b9f51ce7f5d45b681c04.jpg",
+    "price": 499,
+    "description": "JavaScript (often shortened to JS) is a lightweight, interpreted, object-oriented language with first-class functions, and is best known as the scripting language for Web pages, but it's used in many non-browser environments as well",
+    "name": "JavaScript"
+  },
+  {
+    "id": "635972a4a8205aa561fbc1eb",
+    "picture": "https://miro.medium.com/max/336/1*Kbu_OnGEVUCvfMPYnj191g.png",
+    "price": 130,
+    "description": "The HyperText Markup Language or HTML is the standard markup language for documents designed to be displayed in a web browser. It can be assisted by technologies such as Cascading Style Sheets and scripting languages such as JavaScript",
+    "name": "HTML"
+  },
+  {
+    "id": "635972a4e092db3ee8ae48f7",
+    "picture": "https://miro.medium.com/max/1400/0*0Jt6AoXxmN0n0qhN",
+    "price": 119,
+    "description": "Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in a markup language such as HTML or XML. CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript",
+    "name": "CSS"
+  }
+]
